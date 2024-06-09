@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2024-06-09",
+    "time": "09:00 - 10:00",
+    "do": "Meeting",
+    "status": "Passed",
+    "doing time": "09:00 - 09:40",
+    "note": "Productive meeting",
+    "late": "Tidak"
+  },
+  {
+    "date": "2024-06-10",
+    "time": "10:30 - 11:40",
+    "do": "Presentation",
+    "status": "Late Passed",
+    "doing time": "10:40 - 11:30",
+    "note": "Prepare slides",
+    "late": "10 minutes"
+  },
+  {
+    "date": "2024-06-10",
+    "time": "10:30 - 11:40",
+    "do": "Presentation",
+    "status": "Late Failed",
+    "doing time": "10:40 - 11:30",
+    "note": "Prepare slides",
+    "late": "10 minutes"
+  },
+  {
+    "date": "2024-06-10",
+    "time": "10:30 - 11:40",
+    "do": "Presentation",
+    "status": "Late",
+    "doing time": "10:40 - 11:30",
+    "note": "Prepare slides",
+    "late": "10 minutes"
+  }
+]
